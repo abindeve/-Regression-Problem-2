@@ -19,11 +19,13 @@ To set up and run this application locally, follow these steps:
 
 2.**Install Requirements**
 Ensure you have Python installed on your system. Then install the required Python packages using:   
-pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 3.**Run the Application**
 Launch the app by running:
-streamlit run lifespan_prediction_app.py
+    ```bash
+    streamlit run lifespan_prediction_app.py
 
 ## Usage
 After starting the app, follow these steps to use it:
